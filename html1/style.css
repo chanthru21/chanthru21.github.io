@@ -1,0 +1,19 @@
+p {
+    border-radius: 2cm;
+    color: rgb(16, 14, 16);
+    text-align: center;
+ background-color:rgb(252, 250, 248);
+ font-size: large;
+}
+
+   pre{
+    width: 7cm;
+    margin-left: 1cm;
+    background-color:rgb(254, 253, 252);
+    }
+    body{
+      margin: 0cm;
+      font-family: 'Times New Roman', Times, serif;
+
+    }
+   
